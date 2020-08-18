@@ -1,5 +1,3 @@
 # docvim
-You can get neovim version5.0 on docker. 
-This doesn't contains plugins so you can make some containers like upnt/base-ide.
-
-If you want to know details of neovim5.0, please see https://github.com/neovim/neovim/tree/nightly or vim helps.
+You can get neovim on docker. 
+This doesn't contains plugins so you can make some containers like upnt/{langage}-ide.
